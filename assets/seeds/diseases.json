@@ -1,0 +1,13 @@
+[
+  {"id": "P01", "name": "Kehamilan Ektopik"},
+  {"id": "P02", "name": "Anemia Kehamilan"},
+  {"id": "P03", "name": "Kehamilan Ganda"},
+  {"id": "P04", "name": "Premature Rupture of Membranes (PROM)"},
+  {"id": "P05", "name": "Gestational Diabetes"},
+  {"id": "P06", "name": "Pregnancy Induced Hypertension (PIH)"},
+  {"id": "P07", "name": "Eklampsia"},
+  {"id": "P08", "name": "Blighted Ovum"},
+  {"id": "P09", "name": "Abortus (Keguguran)"},
+  {"id": "P10", "name": "Toxoplasmosis"},
+  {"id": "P11", "name": "Rubella (Campak Jerman)"}
+]

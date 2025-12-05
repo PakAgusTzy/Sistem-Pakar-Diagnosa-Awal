@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986552197393",
+    "project_id": "sistempakar-14e4f",
+    "storage_bucket": "sistempakar-14e4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986552197393:android:edac6e5bdb548896162cb0",
+        "android_client_info": {
+          "package_name": "com.example.sistem_pakar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjF8rfes-xr5qk8JWQtleHD5rYLmG25uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
